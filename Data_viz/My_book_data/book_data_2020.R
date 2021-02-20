@@ -185,8 +185,10 @@ genre_text <- ggplot() +
   scale_x_continuous(limits = c(0, 3), expand = c(0, 0)) +
   text_theme() 
 
+#Combine plots
 patchwork <- (author_text | authors_plot) / (cumsum_plot | word_text) / (genre_text | genres_plot) & book_theme()
 
+#Add title, subtitle and caption to combined plot
 patchwork +
   plot_annotation(
     title = "My book stats 2020",
@@ -197,10 +199,11 @@ patchwork +
         plot.subtitle = element_markdown(color = text, hjust = 0.5, size = 15, family = "Tw Cen MT"),
         plot.caption = element_markdown(color = text, hjust = 0.5, size = 10, family = "Tw Cen MT"))
 
-ggsave("book_summary.png",
-       width = 9.27,
-       height = 11.69,
-       dpi = 320,
-       type = "cairo-png")
+#Code to save the plot
+# ggsave("book_summary.png",
+#        width = 9.27,
+#        height = 11.69,
+#        dpi = 320,
+#        type = "cairo-png")
 
 
