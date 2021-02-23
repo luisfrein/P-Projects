@@ -7,6 +7,6 @@
 
 Repository for my personal projects can be data visualizations or data analysis.
 
-**My 2020 reading stats** :book: [(code)](https://github.com/luisfrein/P-Projects/blob/master/Data_viz/My_book_data/book_data_2020.R)
+**My 2020 reading stats** :book: [(code)](https://github.com/luisfrein/P-Projects/blob/master/My_book_data/book_data_2020.R)
 
-![alt text](https://github.com/luisfrein/P-Projects/blob/master/Data_viz/My_book_data/book_summary.png)
+![alt text](https://github.com/luisfrein/P-Projects/blob/master/My_book_data/book_summary.png)
