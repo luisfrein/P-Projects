@@ -2,10 +2,8 @@
 library(tidyverse)
 library(ggfittext)
 
-#library(googlesheets4)
-
 #Get the data
-read.csv("Anne's Top 50 Books.csv") %>% 
+read.csv("A's Top 50 Books.csv") %>% 
   janitor::clean_names() -> books
 
 #Set text encoding
