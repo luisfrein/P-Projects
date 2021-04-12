@@ -210,14 +210,14 @@ v_lines <- tibble(
         axis.text.x = element_blank())
   
 #Code to save the plot
-  ggsave("A's_books.png",
-         width = 30,
-         height = 20,
-         dpi = 320,
-         units = "cm")
-  
-  ggsave("A's_books.svg",
-         width = 30,
-         height = 20,
-         dpi = 320,
-         units = "cm")
+  # ggsave("A's_books.png",
+  #        width = 30,
+  #        height = 20,
+  #        dpi = 320,
+  #        units = "cm")
+  # 
+  # ggsave("A's_books.svg",
+  #        width = 30,
+  #        height = 20,
+  #        dpi = 320,
+  #        units = "cm")
