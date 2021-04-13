@@ -22,7 +22,7 @@ c(
   "light_cant" = "#006B7C",
   "passion" = "#384533",
   "crows" = "#586875",
-  "jane" = "#FF6833",
+  "jane" = "#4F3E51",
   "text" = "#F5DBCC",
   "bkg" = "#D9BFC4"
 ) -> colores
@@ -114,7 +114,7 @@ v_lines <- tibble(
            color = colores[["text"]]) +
   annotate("text", 
            x = 5, y = 1400, 
-           label = "Vilette", 
+           label = "Villette", 
            hjust = .5,
            family = "StempelGaramond LT Roman",
            size = 6.5,

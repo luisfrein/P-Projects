@@ -39,9 +39,9 @@
      inkscape:window-height="716"
      id="namedview212"
      showgrid="false"
-     inkscape:zoom="0.83972969"
+     inkscape:zoom="0.905042"
      inkscape:cx="425.19501"
-     inkscape:cy="283.465"
+     inkscape:cy="327.70122"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -66,11 +66,11 @@
      style="stroke: none; fill: #FFFFFF;"
      id="rect6" />
   <rect
-     x="0.00"
-     y="0.00"
-     width="850.39"
-     height="566.93"
-     style="stroke-width: 1.07; stroke: #FFFFFF; fill: #D9BFC4;"
+     x="0"
+     y="-12.624782"
+     width="850.39001"
+     height="579.55475"
+     style="fill:#d9bfc4;stroke:#ffffff;stroke-width:1.08185"
      id="rect8" />
   <rect
      x="86.67"
@@ -147,7 +147,7 @@
      y="166.95"
      width="64.99"
      height="300.01"
-     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #FF6833;"
+     style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #4F3E51;"
      id="rect30" />
   <text
      x="128.56"
@@ -502,14 +502,14 @@
      lengthAdjust="spacingAndGlyphs"
      id="text152">Noli Me Tangere</text>
   <text
-     x="403.50"
+     x="400.93"
      y="265.85"
      style="font-size: 18.49px; fill: #F5DBCC; font-family: StempelGaramond LT Roman;"
-     textLength="52.38px"
+     textLength="57.52px"
      lengthAdjust="spacingAndGlyphs"
-     id="text154">Vilette</text>
+     id="text154">Villette</text>
   <text
-     transform="matrix(0,0.70900218,-1,0,495.79,253.03591)"
+     transform="matrix(0,0.72357351,-1,0,495.79,253.0286)"
      style="font-size:17.07px;font-family:'WanoQuin-Thin Free PU Thin';fill:#f5dbcc"
      textLength="172.63"
      lengthAdjust="spacingAndGlyphs"
@@ -555,7 +555,7 @@
      lengthAdjust="spacingAndGlyphs"
      id="text168">DOLSSA</text>
   <text
-     transform="matrix(0,0.77170329,-1,0,712.43,252.9995)"
+     transform="matrix(0,0.7705265,-1,0,712.43,253.00007)"
      style="font-size:17.07px;font-family:'WanoQuin-Thin Free PU Thin';fill:#f5dbcc"
      textLength="126.15"
      lengthAdjust="spacingAndGlyphs"
@@ -592,12 +592,12 @@
      points="213.05,558.71 285.26,558.71 285.26,505.19 213.05,505.19 "
      style="fill:#7d4f50;stroke:none;stroke-width:1.07"
      id="polygon182"
-     transform="matrix(1,0,0,1.1557552,0,-78.685946)" />
+     transform="matrix(1,0,0,1.1651601,0,-83.437233)" />
   <polygon
      points="718.54,558.71 646.33,558.71 646.33,505.19 718.54,505.19 "
      style="fill:#7d4f50;stroke:none;stroke-width:1.07"
      id="polygon184"
-     transform="matrix(1,0,0,1.1557549,0,-78.685797)" />
+     transform="matrix(1,0,0,1.1445151,0,-73.007579)" />
   <polygon
      points="213.05,505.19 213.05,528.13 285.26,528.13 285.26,505.19 "
      style="stroke-width: 1.07; stroke: none; fill: #583738;"
@@ -657,7 +657,7 @@
      textLength="52.400002"
      lengthAdjust="spacingAndGlyphs"
      id="text206"
-     transform="matrix(1.0000091,0,0,1,-5.9758393e-5,228)">Number of</text>
+     transform="translate(0,233)">Number of</text>
   <text
      x="5.48"
      y="25.040001"
