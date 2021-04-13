@@ -53,7 +53,7 @@ h_lines <- tibble(
 #Tibble with vertical lines
 v_lines <- tibble(
   x = c(5.86, 5.86, 6.13, 6.13, 8.87, 8.87, 9.13, 9.13),
-  y = c(575, 1400, 575, 1400, 760, 1400, 760, 1400),
+  y = c(440, 1400, 440, 1400, 650, 1400, 650, 1400),
   z = rep(1:4, each = 2)
 )
 
@@ -192,6 +192,20 @@ v_lines <- tibble(
   geom_polygon(mapping = aes(x = c(9, 9, 8, 8),
                              y = c(-250, -400, -400, -250)),
                fill = "#583738")  +
+  annotate("text", 
+           x = .55, y = -75, 
+           label = "Made by @luisfreii", 
+           hjust = 0,
+           family = "IBM Plex Sans",
+           size = 3,
+           color = colores[["text"]]) +
+  annotate("text", 
+           x = .55, y = -200, 
+           label = "Inspiration: JAREDFANNING.COM | Source: Made up Data", 
+           hjust = 0,
+           family = "IBM Plex Sans",
+           size = 3,
+           color = colores[["text"]]) +
   coord_cartesian(expand = FALSE, clip = "off") +
   scale_fill_identity() +
   scale_y_continuous(breaks = seq(1500, 3000, by = 500), labels = c(0, 500, 1000, 1500)) +
@@ -207,7 +221,8 @@ v_lines <- tibble(
                                    family = "IBM Plex Sans"),
         axis.ticks.y = element_line(color = "#9E4842"),
         axis.ticks.x = element_blank(),
-        axis.text.x = element_blank())
+        axis.text.x = element_blank(),
+        plot.margin = margin(25, 15, 0, 15))
   
 #Code to save the plot
   # ggsave("A's_books.png",
@@ -221,3 +236,5 @@ v_lines <- tibble(
   #        height = 20,
   #        dpi = 320,
   #        units = "cm")
+  
+
