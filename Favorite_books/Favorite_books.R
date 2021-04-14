@@ -2,6 +2,7 @@
 library(tidyverse)
 library(ggfittext)
 library(extrafont)
+library(magick)
 
 #Get the data
 read.csv("A's Top 50 Books.csv") %>% 
@@ -237,4 +238,8 @@ v_lines <- tibble(
   #        dpi = 320,
   #        units = "cm")
   
+#Code to remove white borders aroung image. I think it didn't work
+  # image_read("A's_books.png") %>% 
+  #   image_trim() %>% 
+  #   image_write("A's_books.png")
 
