@@ -14,11 +14,17 @@ Repository for my personal projects.
 - 02/2021: [My 2020 reading stats :book:](https://github.com/luisfrein/P-Projects/tree/master/My_book_data)
 - 03/2021: [Central Banks Interest Rates / My First Web Scraping :bank:](https://github.com/luisfrein/P-Projects/tree/master/First_web_scrape)
 - 04/2021: [Anne´s Bookshelf 📚](https://github.com/luisfrein/P-Projects/tree/master/First_web_scrape)
+- 05/2021: [The Rise of Banano 🍌](https://github.com/luisfrein/P-Projects/tree/master/BAN)
 <!-- tocstop -->
 </details>
 
 ---
-**Ccorruption and Economic Freedom** 💰 [(code)](https://github.com/luisfrein/P-Projects/blob/master/CPI_%26_EFI/CPI_%26_EFI.R)
+**The Rise of Banano** 🍌 [(code)](https://github.com/luisfrein/P-Projects/blob/master/BAN/BAN.R)
+
+![Animated Line chart that shows the daily Banano (cryptocurrency) prices from November 3rd, 2018 to May 12th, 2021.
+The chart shows that the price at the start was 0.001 $ and the price stayed around the same level for a while, until 2021 whenn it started rising and ended up at 0.04$ ](https://github.com/luisfrein/P-Projects/blob/master/BAN/BAN.gif)
+---
+**Corruption and Economic Freedom** 💰 [(code)](https://github.com/luisfrein/P-Projects/blob/master/CPI_%26_EFI/CPI_%26_EFI.R)
 
 ![Scatterplot with the corruption perception index on the x axis and the economic freedom index on the y axis. It shows that more corrupt countries also have lower economic freedom scores and viceverse. Countries like Venezuela and Zimbabwe, and Sudan are highly corrupt and have low economic freedom. Countries like Singapore, Hong Kong, Australia are highly clean and have high economic freedom scores](https://github.com/luisfrein/P-Projects/blob/master/CPI_%26_EFI/CPI_%26_EFI.png)
 ---
