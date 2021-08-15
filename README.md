@@ -15,14 +15,18 @@ Repository for my personal projects.
 - 03/2021: [Central Banks Interest Rates / My First Web Scraping :bank:](https://github.com/luisfrein/P-Projects/tree/master/First_web_scrape)
 - 04/2021: [Anne´s Bookshelf 📚](https://github.com/luisfrein/P-Projects/tree/master/First_web_scrape)
 - 05/2021: [The Rise of Banano 🍌](https://github.com/luisfrein/P-Projects/tree/master/BAN)
+- 08/2021: [A Different Way of Visualizing Crypto Prices 📈](https://github.com/luisfrein/P-Projects/tree/master/Crypto_Viz/Crypto_Viz)
 <!-- tocstop -->
 </details>
 
 ---
-**The Rise of Banano** 🍌 [(code)](https://github.com/luisfrein/P-Projects/blob/master/BAN/BAN.R)
+**A Different Way of Visualizing Crypto Prices** 📈 [(code)](https://github.com/luisfrein/P-Projects/blob/master/Crypto_Viz/Crypto_Viz/Crypto_Viz.R)
 
-![Animated Line chart that shows the daily Banano (cryptocurrency) prices from November 3rd, 2018 to May 12th, 2021.
-The chart shows that the price at the start was 0.001 $ and the price stayed around the same level for a while, until 2021 whenn it started rising and ended up at 0.04$ ](https://github.com/luisfrein/P-Projects/blob/master/BAN/BAN.gif)
+![alt text](https://github.com/luisfrein/P-Projects/blob/master/Crypto_Viz/Crypto_Viz/btc.png)
+
+![alt text](https://github.com/luisfrein/P-Projects/blob/master/Crypto_Viz/Crypto_Viz/eth.png)
+
+![alt text](https://github.com/luisfrein/P-Projects/blob/master/Crypto_Viz/Crypto_Viz/ada.png)
 ---
 **Corruption and Economic Freedom** 💰 [(code)](https://github.com/luisfrein/P-Projects/blob/master/CPI_%26_EFI/CPI_%26_EFI.R)
 
